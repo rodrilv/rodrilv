@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rodrilv
+- 👀 I’m interested in ... Finding a job to reinforce my programming skills
+- 🌱 I’m currently learning ... C#, C, C++, JAVA, JavaScript, TypeScript, SQL...
+- 💞️ I’m looking to collaborate on ... Anyone who needs my help :)
+- 📫 How to reach me ... rott.9954@gmail.com
