@@ -3,3 +3,4 @@
 - 🌱 I have skills in ... `C#`- `React` - `Angular` - `NodeJS` - `ExpressJS` - `PHP` - `MongoDB` - `MySQL` ...
 - 💞️ I’m looking to collaborate on ... Any development Team!
 - 📫 How to reach me ... rott.9954@gmail.com
+- Video editing skills (Also have a youtube channel) 😳😳😳
